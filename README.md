@@ -25,11 +25,11 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](./images/desktop.png)
-![Desktop](./images/mobile.png)
+![Mobile](./images/mobile.png)
 
 ### Links
 
-- Solution URL: [https://davekentucky.github.io/Frontend-four-cards/index.html](https://davekentucky.github.io/Frontend-four-cards/index.html)
+- Solution URL: [Four cards](https://davekentucky.github.io/Frontend-four-cards/index.html)
 
 ## My process
 
@@ -52,4 +52,4 @@ After the completion of this task I want to focus even more on manipuating fonts
 ## Author
 
 - LinkedIn - [Dawid Marczewski](https://www.linkedin.com/in/dawid-marczewski-73a75a1bb/)
-- Frontend Mentor - [@DaveKentucky](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@DaveKentucky](https://www.frontendmentor.io/profile/davekentucky)
